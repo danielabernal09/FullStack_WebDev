@@ -1,0 +1,25 @@
+{
+  "name": "FullStack_WebDev",
+  "homepage": "https://github.com/danielabernal09/FullStack_WebDev",
+  "authors": [
+    "danielabernal09 <bernales01@hotmail.com>"
+  ],
+  "description": "website for an awesome restaurant",
+  "main": "index.html",
+  "keywords": [
+    "restaurant",
+    "webpage"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
